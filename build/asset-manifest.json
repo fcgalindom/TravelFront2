@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travelFront/build/static/css/main.756af292.css",
+    "main.js": "/travelFront/build/static/js/main.d17209da.js",
+    "static/js/787.0e59abd9.chunk.js": "/travelFront/build/static/js/787.0e59abd9.chunk.js",
+    "index.html": "/travelFront/build/index.html",
+    "main.756af292.css.map": "/travelFront/build/static/css/main.756af292.css.map",
+    "main.d17209da.js.map": "/travelFront/build/static/js/main.d17209da.js.map",
+    "787.0e59abd9.chunk.js.map": "/travelFront/build/static/js/787.0e59abd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.d17209da.js"
+  ]
+}
