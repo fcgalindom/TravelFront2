@@ -2,7 +2,7 @@
   "name": "travelf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fcgalindom.github.io/travelFront/build",
+  "homepage": "https://fcgalindom.github.io/TravelFront2/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
