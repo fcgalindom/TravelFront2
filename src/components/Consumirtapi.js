@@ -42,7 +42,7 @@ const Consumirtapi = (props) => {
     const crearDatos = async (nuevosDatos) => {
       try {
         // Realizar una solicitud POST a la URL deseada
-        const response = await axios.post('http://fast-sea-94873.herokuapp.com/api/crearhistorial', nuevosDatos);
+        const response = await axios.post('https://fast-sea-94873.herokuapp.com/api/crearhistorial', nuevosDatos);
     
         // Manejar la respuesta del servidor
         console.log('Respuesta del servidor:', response.data);
