@@ -4,6 +4,7 @@ const SelectComponent = ({ options, onChange }) => {
   return (
     <div className='justify-content-center d-flex w-100'>
       <select className="form-select w-50" onChange={onChange}>
+      <option value="">Seleccione un valor</option>
       {options.map(option => (
         <option key={option.value} value={option.value}>
           {option.label}

@@ -18,7 +18,7 @@ function App() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link to="/" className="nav-link">Mapass</Link>
+              <Link to="/mapas" className="nav-link">Mapas</Link>
             </li>
             <li className="nav-item">
               <Link to="/historial" className="nav-link">Historial</Link>
@@ -26,12 +26,14 @@ function App() {
           </ul>
         </div>
       </nav>
+      <h1>Bienvenido</h1>
 
       <Routes>
-        <Route path="/" element={<Controlador />} />
+        <Route path="/mapas" element={<Controlador />} />
         <Route path="/historial" element={<Historial />} />
       </Routes>
     </Router>
+   
   </div>
   );
 }
