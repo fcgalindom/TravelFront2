@@ -18,7 +18,7 @@ function App() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link to="/" className="nav-link">Mapas</Link>
+              <Link to="/" className="nav-link">Mapass</Link>
             </li>
             <li className="nav-item">
               <Link to="/historial" className="nav-link">Historial</Link>

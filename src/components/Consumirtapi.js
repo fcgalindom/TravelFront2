@@ -21,7 +21,7 @@ const Consumirtapi = (props) => {
     
     const obtenerDatosDeAPI = () => {
       
-      console.log("respuesta",ciudad)
+      
       axios.get('https://api.openweathermap.org/data/2.5/weather?q=' + ciudad+',us&APPID=e9223662a011cdede4decbbe8191f1cb')
         .then(response => {
          
