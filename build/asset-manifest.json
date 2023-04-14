@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TravelFront2/build/static/css/main.756af292.css",
-    "main.js": "/TravelFront2/build/static/js/main.a5f2ebab.js",
-    "static/js/787.0e59abd9.chunk.js": "/TravelFront2/build/static/js/787.0e59abd9.chunk.js",
-    "index.html": "/TravelFront2/build/index.html",
-    "main.756af292.css.map": "/TravelFront2/build/static/css/main.756af292.css.map",
-    "main.a5f2ebab.js.map": "/TravelFront2/build/static/js/main.a5f2ebab.js.map",
-    "787.0e59abd9.chunk.js.map": "/TravelFront2/build/static/js/787.0e59abd9.chunk.js.map"
+    "main.css": "/TravelFront2/static/css/main.756af292.css",
+    "main.js": "/TravelFront2/static/js/main.c4d51d0d.js",
+    "static/js/787.0e59abd9.chunk.js": "/TravelFront2/static/js/787.0e59abd9.chunk.js",
+    "index.html": "/TravelFront2/index.html",
+    "main.756af292.css.map": "/TravelFront2/static/css/main.756af292.css.map",
+    "main.c4d51d0d.js.map": "/TravelFront2/static/js/main.c4d51d0d.js.map",
+    "787.0e59abd9.chunk.js.map": "/TravelFront2/static/js/787.0e59abd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.a5f2ebab.js"
+    "static/js/main.c4d51d0d.js"
   ]
 }
